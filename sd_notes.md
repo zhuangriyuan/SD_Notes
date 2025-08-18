@@ -8,6 +8,9 @@ __导出时最好接Gradiant Map用RGB导出__
 __导出时接Alpha Merge添加ALpha通道__
 ___
 
+__Grayscale Conversion__ / __Alpha Split__
+> 网上下载的图片可以用这个转灰度图
+
 __Gradiant Map__
 > mono to rgb
 
